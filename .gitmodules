@@ -496,3 +496,9 @@
 [submodule "libraries/drivers/servokit"]
 	path = libraries/drivers/servokit
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Servokit.git
+[submodule "libraries/drivers/debouncer"]
+	path = libraries/drivers/debouncer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git
+[submodule "libraries/drivers/ticks"]
+	path = libraries/drivers/ticks
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git
