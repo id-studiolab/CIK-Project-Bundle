@@ -484,3 +484,15 @@
 [submodule "libraries/drivers/vl53l0x"]
 	path = libraries/drivers/vl53l0x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
+[submodule "libraries/drivers/motorkit"]
+	path = libraries/drivers/motorkit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git
+[submodule "libraries/drivers/pca9685"]
+	path = libraries/drivers/pca9685
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git
+[submodule "libraries/drivers/register"]
+	path = libraries/drivers/register
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Register.git
+[submodule "libraries/drivers/servokit"]
+	path = libraries/drivers/servokit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Servokit.git
