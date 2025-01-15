@@ -17,5 +17,7 @@ To locally build a bundle:
 `pip install circuitpython-build-tools`  
 `./build.sh`
 
+Don't forget to enable Gtihub Actions!
+
 On every push to this repo it will build and check if all is good  
 On every release it will build the .mpy project bundle and add it to the release!
