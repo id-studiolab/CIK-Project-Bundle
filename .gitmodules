@@ -502,3 +502,6 @@
 [submodule "libraries/drivers/ticks"]
 	path = libraries/drivers/ticks
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git
+[submodule "libraries/drivers/lsm6ds"]
+	path = libraries/drivers/lsm6ds
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS
